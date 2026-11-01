@@ -31,11 +31,10 @@ public class sort{
                     minIndex = j;
                     
                 }
-                int temp = arr[minIndex];
-                arr[minIndex] = arr[i];
-                arr[i] = temp;
-                 
             }
+            int temp = arr[minIndex];
+            arr[minIndex] = arr[i];
+            arr[i] = temp;
         }
 
     }
