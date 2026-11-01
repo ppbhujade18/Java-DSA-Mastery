@@ -31,7 +31,7 @@ public class water{
     }
     public static void main(String[] args) {
         int height[] = {10,7,2,3,2,5};
-        System.err.println(trapRainwater(height));
+        System.out.println(trapRainwater(height));
 
     }
 }
