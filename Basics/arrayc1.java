@@ -2,33 +2,19 @@ import java.util.*;
 
 public class arrayc1{
     public static int binarySearch(int numbers[], int key){
-        /*
-        binary search 
-        2|4|6|8|10|12|14|16|
-        key =12 
-        initiate start and end 
-        mid = start + end /2
-        compare mid with key 
-        key>mid >> move right start ++
-        key < mid >> move left end --
-        key == mid then print index
-
-        */
+    
         int start = 0;
-        int end = numbers.length;
+        int end = numbers.length - 1 ;
         while (start<=end) {
-        int mid = (start + end )/2;
-        if (key == numbers[mid]) {
-            return mid;
-        }
-        if(key > numbers[mid]){
-            //update start moves right
-            start++;
-        }
-        if(key<numbers[mid]){
-            end--;
-        }
-        
+            int mid = start + (end - start )/2;
+            if (key == numbers[mid]){
+                return mid;
+            }
+            if(key > numbers[mid]){
+                start = mid+1; //move right
+            }else{
+                end = mid -1 ; // move left
+            }
        }
        return -1;
     }
