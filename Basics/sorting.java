@@ -3,7 +3,7 @@ import java.util.Collections;  //collections used for reverse order array
 public class sorting{
     public static void printarr(int arr[]){
         for(int i=0;i<arr.length;i++){
-            System.out.print(arr[i]+ " ");
+            System.out.print(arr[i]+ " "); 
         }
         System.out.println();
     }
@@ -23,10 +23,10 @@ public class sorting{
 
         printarr(arr);
 
-        //Arrays.sort(arr1, Collections.reverseOrder()); //for decreasing order
-        //printRevarr(arr1);
-
-        Arrays.sort(arr1,0,5, Collections.reverseOrder()); // only 4 element will be sort in decreasing order.
+        Arrays.sort(arr1, Collections.reverseOrder()); //for decreasing order
         printRevarr(arr1);
+
+        //Arrays.sort(arr1,0,5, Collections.reverseOrder()); // only 4 element will be sort in decreasing order.
+        //printRevarr(arr1);
     }
 }
