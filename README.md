@@ -12,10 +12,12 @@ This repository tracks my daily progress in mastering Data Structures and Algori
   - `subarray.java` (Kadane's Algorithm for Maximum Subarray).
   - `stocks.java` (Best Time to Buy and Sell Stock).
   - `tsum.java` (Two Sum).
-- Strings :
-  - (Strings.java)  Palindrome checker, Shortest Path calculator, and Lexicographical String comparison.
-- Basics/: Core Java practice files.
-
+    
+- Strings (Strings.java) :
+  -  Palindrome checker, Shortest Path calculator, and Lexicographical String comparison.
+  - Basics/: Core Java practice files.
+- StringBuilder (string1.java):
+  -  Uppercase conversion, String Compression.
 ## 🎯 Goals
 - [x] Master basic sorting algorithms.
 - [x] Solve complex array problems.
