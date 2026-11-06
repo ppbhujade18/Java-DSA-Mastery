@@ -43,7 +43,7 @@ public class string1{
     public static void main(String[] args) {
         String str = "hii i'm pranav ";
         String str1 = "aaabbbcccdd";
-        System.out.println(tocompress(str1));
+        System.out.println("Compressed String : "+ tocompress(str1));
         System.out.println(toUpperCase(str));
 
         
