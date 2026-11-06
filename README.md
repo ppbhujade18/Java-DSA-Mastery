@@ -21,5 +21,5 @@ This repository tracks my daily progress in mastering Data Structures and Algori
 ## 🎯 Goals
 - [x] Master basic sorting algorithms.
 - [x] Solve complex array problems.
-- [ ] Maintain a 30-day streak on LeetCode.
+- [ ] 30 Problems on leetcode.
 - [ ] Build a full-stack Java backend project (Coming Soon).
