@@ -22,4 +22,5 @@ This repository tracks my daily progress in mastering Data Structures and Algori
 - [x] Master basic sorting algorithms.
 - [x] Solve complex array problems.
 - [ ] 30 Problems on leetcode.
+- [ ] Create mini project  
 - [ ] Build a full-stack Java backend project (Coming Soon).
