@@ -20,9 +20,10 @@ This repository tracks my daily progress in mastering Data Structures and Algori
   -  Uppercase conversion, String Compression.
  
 ## 🏆 LeetCode Progress
-- [x] Two Sum (Easy)
-- [x] Defanging an IP Address (Easy)
-- [x] Final Value of Variable After Performing Operations (Easy)
+- [x] Two Sum (Easy) - [tSum.java]
+- [x] Defanging an IP Address (Easy)  - [solution.java]
+- [x] Final Value of Variable After Performing Operations (Easy)  - [finalvalue.java]
+
 ## 🎯 Goals
 - [x] Master basic sorting algorithms.
 - [x] Solve complex array problems.
