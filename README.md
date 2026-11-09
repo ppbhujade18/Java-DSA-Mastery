@@ -18,6 +18,11 @@ This repository tracks my daily progress in mastering Data Structures and Algori
   - Basics/: Core Java practice files.
 - StringBuilder (string1.java):
   -  Uppercase conversion, String Compression.
+ 
+## 🏆 LeetCode Progress
+- [x] Two Sum (Easy)
+- [x] Defanging an IP Address (Easy)
+- [x] Final Value of Variable After Performing Operations (Easy)
 ## 🎯 Goals
 - [x] Master basic sorting algorithms.
 - [x] Solve complex array problems.
