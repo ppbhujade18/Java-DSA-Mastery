@@ -23,6 +23,7 @@ This repository tracks my daily progress in mastering Data Structures and Algori
 - [x] Two Sum (Easy) - [tSum.java]
 - [x] Defanging an IP Address (Easy)  - [solution.java]
 - [x] Final Value of Variable After Performing Operations (Easy)  - [finalvalue.java]
+- [x] Shuffle the Array(Easy) - [shuffleA.java]
 
 ## 🎯 Goals
 - [x] Master basic sorting algorithms.
