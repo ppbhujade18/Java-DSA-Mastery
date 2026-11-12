@@ -17,7 +17,8 @@ This repository tracks my daily progress in mastering Data Structures and Algori
   -  Palindrome checker, Shortest Path calculator, and Lexicographical String comparison.
   - Basics/: Core Java practice files.
 - StringBuilder (string1.java):
-  -  Uppercase conversion, String Compression.
+  -  Uppercase conversion
+  -  String Compression ( String2.java)
  
 ## 🏆 LeetCode Progress
 - [x] Two Sum (Easy) - [tSum.java]
