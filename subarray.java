@@ -51,6 +51,9 @@ public class subarray {
             if (mx < cursum) {
                 mx =cursum;
             }
+            if(cursum<0){
+                cursum =0;
+            }
         }
         System.out.println("Maximum subarray sum is : " + mx);
     } 
