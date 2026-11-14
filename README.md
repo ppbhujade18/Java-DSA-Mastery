@@ -19,6 +19,9 @@ This repository tracks my daily progress in mastering Data Structures and Algori
 - StringBuilder (string1.java):
   -  Uppercase conversion
   -  String Compression ( String2.java)
+- **Object-Oriented Programming (OOPs):**
+  - `Oops1.java` (Encapsulation: Private fields with public getters and setters).
+  - `Constructors.java` (Constructor Overloading: Parameterized and Non-parameterized constructors).
  
 ## 🏆 LeetCode Progress
 - [x] Two Sum (Easy) - [tSum.java]
