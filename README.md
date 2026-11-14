@@ -20,6 +20,7 @@ This repository tracks my daily progress in mastering Data Structures and Algori
   -  Uppercase conversion
   -  String Compression ( String2.java)
 - **Object-Oriented Programming (OOPs):**
+  - 'Oops.java' (Object Creation, Encapsulation: accessible only inside this class, Using 'this' keyword to resolve variable shadowing)
   - `Oops1.java` (Encapsulation: Private fields with public getters and setters).
   - `Constructors.java` (Constructor Overloading: Parameterized and Non-parameterized constructors).
  
