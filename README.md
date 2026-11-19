@@ -1,6 +1,8 @@
 # Java DSA Mastery 🚀
 
 This repository tracks my daily progress in mastering Data Structures and Algorithms using Java. 
+## Basics 
+- it contains baics practices of initial phase of learning 
 
 ## 📂 Folder Structure & Projects
 - Sorting (`sort.java`):
