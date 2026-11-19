@@ -18,6 +18,14 @@ public class arrayc1{
        }
        return -1;
     }
+    public static int linearSearch(int [] nums, int target){
+        for(int i =0; i<nums.length;i++){
+            if(nums[i] == target){
+                return i;
+            }
+        }
+        return -1;
+    }
     public static void main(String[] args) {
         int numbers [] = {2,4,6,8,10,12,14,16};
         int key = 14;
@@ -25,6 +33,14 @@ public class arrayc1{
         int index = binarySearch(numbers, key);
         if(index == -1 ){
             System.out.println("Key is not in the array");
+        }
+
+        int[] nums = {2,3,5,6,8,10};
+		int target = 8;
+		int indx = linearSearch(nums, target);
+		System.out.println("key is at index : " + indx);
+        if(indx == -1 ){
+            System.out.println("Key not found");
         }
 
     }
