@@ -3,7 +3,7 @@ public class Inherit{
 
         
         Bird b1 = new Bird(); // inherits properties from parent class animal
-        System.out.println("birds can : ");
+        System.out.println("birds can : "); 
         b1.breath();
         b1.fly();
 
