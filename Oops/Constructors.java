@@ -6,7 +6,7 @@ public class Constructors {
         Student s2 = new Student("Pranav");   //constructor Overloading - calling multiple constructor
         Student s3 =  new Student(7);
 
-        System.out.println(s2.name);
+        System.out.println(s2.name); 
         System.out.println(s3.roll_no);
     }
 }
