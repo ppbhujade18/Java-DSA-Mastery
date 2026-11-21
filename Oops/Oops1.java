@@ -7,7 +7,7 @@ public class Oops1{
         //Set info using setters
 
         s1.setName("Aditya"); 
-        s1.setAge(17);
+        s1.setAge(17); 
         s1.setUid("A1B2C3");
 
         //Get info using getters
