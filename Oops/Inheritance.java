@@ -5,7 +5,7 @@ public class Inheritance {
         d1.breath();
         d1.walk();
         d1.barks();
-    }
+    } 
 }
 
 class Animal{
