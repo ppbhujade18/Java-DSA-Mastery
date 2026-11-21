@@ -5,7 +5,7 @@ public class Oops{
         bankAccount myacc = new bankAccount();
         myacc.setusername("ppbhuj18");
         myacc.setPassword("ppbhuj18");
-        System.out.println(myacc.username);
+        System.out.println(myacc.username); 
         System.out.print("updated balance after deposit : ");
         myacc.depositMoney(10000);
         System.out.print("updated balance after withdrawing : ");
