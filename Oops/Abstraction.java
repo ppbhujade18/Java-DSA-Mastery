@@ -6,7 +6,7 @@ public class Abstraction {
 
         Chicken c = new Chicken();
         c.eat();
-        c.walk();
+        c.walk(); 
         //Animal a = new Animal(); //Cannot instantiate the type Animal  //cannot create an instance/object of  Abstract class
 
     }
