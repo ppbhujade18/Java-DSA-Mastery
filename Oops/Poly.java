@@ -6,7 +6,7 @@ public class Poly {
         System.out.println(cal.sum(2, 3));
         System.out.println(cal.sum(1,2, 8));
 
-        //method overriding  - parent and child classes , both contains same functions different definition 
+        //method overriding  - parent and child classes , both contains same functions different definition  
         //but when we create object of child class then it runs function under child class only not its parent class 
         Deer d = new Deer();
         d.eats();
