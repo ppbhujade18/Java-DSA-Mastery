@@ -3,7 +3,7 @@ public class Constructors1{
         Student s1 = new Student();
         s1.name = " Pranav";
         s1.roll = 123;
-        s1.password = "abcd";
+        s1.password = "abcd"; 
 
         s1.marks[0] = 100;
         s1.marks[1] = 70;    // assigned marks in the array  ///shallow copy >> changes reflected after copying
