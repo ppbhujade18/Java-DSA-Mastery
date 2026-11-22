@@ -1,4 +1,4 @@
-# Java DSA Mastery 🚀
+<img width="836" height="373" alt="image" src="https://github.com/user-attachments/assets/275c6be4-0fff-4b37-ac5c-78d93e9873a4" /># Java DSA Mastery 🚀
 
 This repository tracks my daily progress in mastering Data Structures and Algorithms using Java. 
 ## Basics 
@@ -31,6 +31,8 @@ This repository tracks my daily progress in mastering Data Structures and Algori
 - [x] Defanging an IP Address (Easy)  - [solution.java]
 - [x] Final Value of Variable After Performing Operations (Easy)  - [finalvalue.java]
 - [x] Shuffle the Array(Easy) - [shuffleA.java]
+- [x] Palindrome Number (Easy) [Palindrome.java]
+- [x] Trapping Rainwater Problem (Hard) [Rainwater.java]
 
 ## 🎯 Goals
 - [x] Master basic sorting algorithms.
