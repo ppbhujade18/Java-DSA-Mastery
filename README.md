@@ -1,4 +1,7 @@
-<img width="836" height="373" alt="image" src="https://github.com/user-attachments/assets/275c6be4-0fff-4b37-ac5c-78d93e9873a4" /># Java DSA Mastery 🚀
+<img width="836" height="373" alt="image" src="https://github.com/user-attachments/assets/275c6be4-0fff-4b37-ac5c-78d93e9873a4" />
+
+
+# Java DSA Mastery 🚀
 
 This repository tracks my daily progress in mastering Data Structures and Algorithms using Java. 
 ## Basics 
