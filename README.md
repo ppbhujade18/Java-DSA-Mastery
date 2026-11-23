@@ -36,6 +36,7 @@ This repository tracks my daily progress in mastering Data Structures and Algori
 - [x] Shuffle the Array(Easy) - [shuffleA.java]
 - [x] Palindrome Number (Easy) [Palindrome.java]
 - [x] Trapping Rainwater Problem (Hard) [Rainwater.java]
+- [x] Convert Roman Number to Integer - [RomanInt.java]
 
 ## 🎯 Goals
 - [x] Master basic sorting algorithms.
