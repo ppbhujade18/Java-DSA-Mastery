@@ -2,7 +2,7 @@ public class Key { //static Keyword
     public static void main(String[] args) {
         Student s1 = new Student();
         s1.schoolName = "SCSV";  
-        System.out.println("School : "+ s1.schoolName);
+        System.out.println("School : "+ Student.schoolName);
         
         s1.setName("Pranav");
         System.out.println( "Name : " + s1.getName());
@@ -16,7 +16,7 @@ public class Key { //static Keyword
 
         Student s2 = new Student();
 
-        System.out.println("School : "+ s2.schoolName);
+        System.out.println("School : "+ Student.schoolName);
 
         s2.setName("Rishi");
         System.out.println( "Name : " + s2.getName());
