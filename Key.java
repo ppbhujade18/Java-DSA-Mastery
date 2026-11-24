@@ -10,7 +10,7 @@ public class Key { //static Keyword
         s1.setRoll(5);
         System.out.println("Roll No : " + s1.getroll());
 
-        System.out.println( "Percentage " + s1.calcPercentage(100, 89, 85) + "%");
+        System.out.println( "Percentage " + Student.calcPercentage(100, 89, 85) + "%");
 
         System.out.println();
 
@@ -24,7 +24,7 @@ public class Key { //static Keyword
         s2.setRoll(6);
         System.out.println("Roll No : " + s2.getroll()); 
 
-        System.out.println( "Percentage " + s2.calcPercentage(95, 79, 85) + "%");
+        System.out.println( "Percentage " + Student.calcPercentage(95, 79, 85) + "%");
     }
 }
 class Student{
